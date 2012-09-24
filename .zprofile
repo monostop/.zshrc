@@ -6,4 +6,3 @@ fi
 
 export PATH=/users/vikfor/bin:$PATH
 export PYTHONPATH=/users/vikfor/bin:$PYTHONPATH
-export EDITOR=vim
